@@ -1,1 +1,1 @@
-# Aplicacion de consola
+# Configuracion para aplicacion de Node
